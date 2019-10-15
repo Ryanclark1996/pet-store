@@ -46,5 +46,62 @@ nav {
     color: #fff;
 }
 
+.featured {
+    margin-bottom: 60px;
+}
 
+.product {
+    background-color: eeddcd;
+    border-radius: 5%;
+    border: 5px solid rbg(252, 252, 252);
+}
+.img_box {
+    margin: 10px 0px;
+
+}
+.product button {
+    margin-bottom: 10px;
+    background-color: rgb(252,252,252);
+    border: 1px solid #5c433f;
+
+}
+aside a {
+    background-color: #eeddcd;
+
+}
+aside a,footer {
+    background-color: #eeddcd
+}
+footer {
+    padding-top: 20px;
+    max-height: 100%;
+}
+footer a {
+    color: #5c433f
+}
+footer img {
+    height: 90px;
+}
+footer.container-fluid>.row.centered>(.col-xs-6.col-sm-1.col-sm-offset-1>img[src="img/petstore_logo.png"][alt="Pet Store"].logo)+(.col-xs-6.col-sm-3.col-sm-offset-1.contact_info>(address>(a{Pet Store}>br)+a{Fresno, Ca}>br)+a{info@petstore.com}))+(.col-sm-2.social>(a>i.fab.fa-+span.hidden-xs)*3)*1
+}
+.contact__info {
+    padding-top:
+    15px;
+    padding-left:
+    40px;
+    border-right:
+    1px solid
+    #333;
+    border-left:
+    1px solid
+    #333;
+
+}
+.social {
+    padding-top: 15px;
+}
+footer .fine_print {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: #333;
 }
